@@ -303,19 +303,24 @@ width: 100px;
     }
     @media(max-width: 367px){
         #tv{
-            height: 130vh;
+            height: 90vh;
             width: 180vw;
+        }
+    }
+    @media(max-width: 367px){
+        .tv1{
+            width: 250px;
         }
     }
     @media(max-width: 367px){
         .tv2>img{
             height: 40vh;
-            width: 40vw;
+            width: 60vw;
         }
     }
     @media(max-width: 367px){
         #mob{
-            height: 130vh;
+            height: 80vh;
             width: 180vw;
         }
     }
@@ -327,14 +332,14 @@ width: 100px;
     }
     @media(max-width: 367px){
         #forth{
-            height: 60vh;
+            height: 50vh;
             width: 180vw;
         }
          
     }
     @media(max-width: 367px){
         #kids{
-            height: 130vh;
+            height: 80vh;
             width: 180vw;
 
         }
