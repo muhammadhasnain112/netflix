@@ -263,112 +263,113 @@ a{
 footer{
     height: 60vh;
     width: 100%;
+    
     background-color: #000000;
     margin-top: 1%;
     display: flex;
     justify-content: space-around;
     
 }
-@media(width :367px){
+@media(max-width :367px){
 header {
     width: 180vw;
     height: 150vh;
 }
 }
-@media(width :367px){
+@media(max-width :367px){
     .div1>img {
          
 height: 50px;
 width: 100px;
     }}
-    @media(width : 367px){
+    @media(max-width : 367px){
 
         .div2
         {height: 40px;
             width: 100px;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #div2>input{
             height: 60px;
             width: 250px;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #div2>button{
             height: 60px;
             width: 150px;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #tv{
             height: 130vh;
             width: 180vw;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         .tv2>img{
             height: 40vh;
             width: 40vw;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #mob{
             height: 130vh;
             width: 180vw;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         .mob1>img{
             height: 250px;
             width: 250px;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #forth{
             height: 60vh;
             width: 180vw;
         }
          
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #kids{
             height: 130vh;
             width: 180vw;
 
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         .kids1>img{
             height: 280px;
             width: 280px;
 
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         .kids2{
             height: 150px;
             width: 350px;
             margin-bottom: 200px;
         }
     }
-    @media(width: 367px){
+    @media(max-width: 367px){
         #bb{
             height: 180vh;
             width: 180vw;
         }
     }
-     @media(width: 367px){
+     @media(max-width: 367px){
         #dd>input{
             width:250px
             ;height: 60px;  }}
-            @media(width: 367px){
+            @media(max-width: 367px){
                 #dd>button{
                     height: 60px;
                    width:  150px
                 }
             }
-            @media(width: 367px){
+            @media(max-width: 367px){
                 footer{
                     height: 70vh;
                     width: 180vw;
